@@ -1,3 +1,5 @@
-# Спойлер на CSS
+# Спойлер CSS или jQuery
 
-![](https://i.ibb.co/H2ps6JY/screenshot.jpg)
+![spoiler-css.gif](https://i.ibb.co/LNZZkgX/spoiler-css.gif)
+
+![spoiler-jquery.gif](https://i.ibb.co/TRdRYJs/spoiler-jquery.gif)
