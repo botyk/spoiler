@@ -1,5 +1,4 @@
 # Спойлер CSS или jQuery
 
-![spoiler-css.gif](https://i.ibb.co/LNZZkgX/spoiler-css.gif)
+![spoiler_css_jquery.gif](https://i.ibb.co/Xjz2TyJ/spoiler-css-jquery.gif)
 
-![spoiler-jquery.gif](https://i.ibb.co/TRdRYJs/spoiler-jquery.gif)
