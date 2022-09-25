@@ -275,11 +275,9 @@ $(document).ready(function(){
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-$(document).ready(function(){
-    $('div.spoiler-head', $('body')).unbind('click').click(function(){
-		$(this).toggleClass('unfolded');
-		$(this).next('div.spoiler-body').slideToggle('fast');
-	});
+$(document).on("click", ".spoiler-head", function() {
+    $(this).toggleClass("unfolded");
+	$(this).next(".spoiler-body").slideToggle("fast");
 });
 </script>
 
